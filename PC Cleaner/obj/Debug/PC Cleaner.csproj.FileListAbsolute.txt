@@ -1,0 +1,10 @@
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\Build.Form1.resources
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\Build.Properties.Resources.resources
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.GenerateResource.cache
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.CoreCompileInputs.cache
+D:\Projects\System Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.config
+D:\Projects\System Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe
+D:\Projects\System Cleaner\PC Cleaner\bin\Debug\PC Cleaner.pdb
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\PC Cleaner.pdb
+D:\Projects\System Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.AssemblyReference.cache
